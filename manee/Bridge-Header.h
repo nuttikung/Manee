@@ -9,5 +9,7 @@
 #ifndef manee_Bridge_Header_h
 #define manee_Bridge_Header_h
 
+#import <FBSDKLoginKit/FBSDKLoginKit.h>
+#import <FBSDKShareKit/FBSDKShareKit.h>
 
 #endif
